@@ -1,2 +1,11 @@
 /privacy.html /privacy 301
 /terms.html /terms 301
+
+# Short links for bios and captions; Play Console's acquisition report breaks installs down by utm_source.
+/tiktok https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dtiktok%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/ig https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dinstagram%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/yt https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dyoutube%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/x https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/reddit https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dreddit%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/tg https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dbio 302
+/play https://play.google.com/store/apps/details?id=com.apprange.skinscore&referrer=utm_source%3Dskinscoreai.app%26utm_medium%3Dshortlink 302
